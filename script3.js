@@ -255,9 +255,7 @@ function comics(characterID) {
 
               output +=
                 '<div class="card">' +
-                '<a href="./comic.php?comic-id=' +
-                comic.id +
-                '"><img src="' +
+                '<a href=""><img src="' +
                 comic.thumbnail["path"] +
                 "." +
                 comic.thumbnail["extension"] +
