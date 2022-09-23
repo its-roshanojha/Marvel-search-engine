@@ -1,0 +1,11 @@
+PUBLIC KEY: 01302fe8616347c6decaf8fc30e088f9 (api key)
+PRIVATE KEY: 4c061f27da8b184db8946d4daf37fcd41990a478
+Your rate limit:
+ 
+3000 calls/day Number of calls your application can make per day.
+
+ts = 1
+
+md5(ts+privateKey+publicKey) = 14c061f27da8b184db8946d4daf37fcd41990a47801302fe8616347c6decaf8fc30e088f9 = hash key ----- ba81f8fdf7e1f5233e29dc5a8d5a227a
+
+http://gateway.marvel.com/v1/public/comics?ts=1&apikey=01302fe8616347c6decaf8fc30e088f9&hash=ba81f8fdf7e1f5233e29dc5a8d5a227a
