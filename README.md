@@ -6,3 +6,18 @@ detail of superhero will be displayed and list of comics will also get displayed
 Some glimpse of the prooject are-
 
 
+1.  
+![alt text](https://github.com/its-roshanojha/Marvel-search-engine/blob/master/Images/1.png)
+
+2. 
+![alt text](https://github.com/its-roshanojha/Marvel-search-engine/blob/master/Images/2.png)
+
+3.
+![alt text](https://github.com/its-roshanojha/Marvel-search-engine/blob/master/Images/3.png)
+
+4.
+![alt text](https://github.com/its-roshanojha/Marvel-search-engine/blob/master/Images/4.jpg)
+
+5.
+![alt text](https://github.com/its-roshanojha/Marvel-search-engine/blob/master/Images/5.png)
+
